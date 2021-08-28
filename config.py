@@ -20,7 +20,7 @@ class Config:
     MAIL_USE_TLS = False
     MAIL_USE_SSL = True
     MAIL_USERNAME = 'musilacasey@gmail.com'
-    MAIL_PASSWORD = 'musila'
+    MAIL_PASSWORD = 'musila12'
 
     # SIMPLE MDE configuration
     SIMPLEMDE_JS_IIFE = True
