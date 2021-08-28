@@ -1,4 +1,4 @@
-# The J Word
+# BLOG
 
 ## Author
 
